@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/napari/npe2/commit/45215167b5c69047a3389b654cd0f8b063932164",
       "git:hexsha": "45215167b5c69047a3389b654cd0f8b063932164",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.10.0"
     },
     {
